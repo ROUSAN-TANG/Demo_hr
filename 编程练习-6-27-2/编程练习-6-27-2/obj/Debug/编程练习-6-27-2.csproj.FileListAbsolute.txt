@@ -1,0 +1,12 @@
+D:\VS\编程练习-6-27-2\编程练习-6-27-2\bin\Debug\编程练习-6-27-2.exe.config
+D:\VS\编程练习-6-27-2\编程练习-6-27-2\obj\Debug\编程练习-6-27-2.csprojResolveAssemblyReference.cache
+D:\VS\编程练习-6-27-2\编程练习-6-27-2\obj\Debug\编程练习_6_27_2.Form_Emp.resources
+D:\VS\编程练习-6-27-2\编程练习-6-27-2\obj\Debug\编程练习_6_27_2.Properties.Resources.resources
+D:\VS\编程练习-6-27-2\编程练习-6-27-2\obj\Debug\编程练习-6-27-2.csproj.GenerateResource.Cache
+D:\VS\编程练习-6-27-2\编程练习-6-27-2\bin\Debug\编程练习-6-27-2.exe
+D:\VS\编程练习-6-27-2\编程练习-6-27-2\bin\Debug\编程练习-6-27-2.pdb
+D:\VS\编程练习-6-27-2\编程练习-6-27-2\obj\Debug\编程练习-6-27-2.exe
+D:\VS\编程练习-6-27-2\编程练习-6-27-2\obj\Debug\编程练习-6-27-2.pdb
+D:\VS\编程练习-6-27-2\编程练习-6-27-2\obj\Debug\编程练习_6_27_2.Form_add.resources
+D:\VS\编程练习-6-27-2\编程练习-6-27-2\obj\Debug\编程练习_6_27_2.Form_Update.resources
+D:\VS\编程练习-6-27-2\编程练习-6-27-2\obj\Debug\编程练习_6_27_2.Form_hr.resources
